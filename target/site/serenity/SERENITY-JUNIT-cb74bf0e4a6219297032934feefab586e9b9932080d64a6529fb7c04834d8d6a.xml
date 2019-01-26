@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="1" name="com.github.serenityBdd.features.navigation.WhenBrowingProductCategories" skipped="0" tests="4" time="122.86" timestamp="2019-01-26T17:11:22.041+02:00[Europe/Athens]"><testcase classname="com.github.serenityBdd.features.navigation.WhenBrowingProductCategories" name="Should be able to view motorcycles category"><failure message="&#10;Expected: a string containing &quot;Sporting Goods&quot;&#10;     but: was &quot;Parts and accessories | Motors | eBay&quot;" type="java.lang.AssertionError">
+Expected: a string containing "Sporting Goods"
+     but: was "Parts and accessories | Motors | eBay"</failure><system-err>
+Expected: a string containing "Sporting Goods"
+     but: was "Parts and accessories | Motors | eBay"&#13;
+com.github.serenityBdd.features.navigation.WhenBrowingProductCategories.shouldBeAbleToViewMotorcyclesCategory(WhenBrowingProductCategories.java:66)&#13;
+</system-err></testcase><testcase classname="com.github.serenityBdd.features.navigation.WhenBrowingProductCategories" name="Should be able to navigate to sports category"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.github.serenityBdd.features.navigation.WhenBrowingProductCategories.shouldBeAbleToNavigateToSportsCategory(WhenBrowingProductCategories.java:53)&#13;
+</system-err></testcase><testcase classname="com.github.serenityBdd.features.navigation.WhenBrowingProductCategories" name="Should be able to view sports category"/><testcase classname="com.github.serenityBdd.features.navigation.WhenBrowingProductCategories" name="Should be able to navigate to motors category"/></testsuite>
